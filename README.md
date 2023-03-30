@@ -1,1 +1,3 @@
-## Hi, I'm Karthik Kamineni 👋🏽 👨🏽‍💻
+## Hi 👋🏽
+
+![Intro_img](header.png)
